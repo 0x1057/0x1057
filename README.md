@@ -45,6 +45,7 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" height="40" alt="firebase logo" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40" alt="mongodb logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" height="40" alt="sqlite logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
