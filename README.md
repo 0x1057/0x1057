@@ -36,7 +36,7 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
 </div>
 
 <h3 align="left">
-   Core Programmin Skills:
+   Core Programming Skills:
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
@@ -64,21 +64,6 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-<h3 align="left">
-    Tools & Utilities:
-</h3>
-
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="linux logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" alt="bash logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="postman" width="40" height="40"/>
-</div>
-
 
 <h3 align="left">
     Connect with me:
