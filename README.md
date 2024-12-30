@@ -7,7 +7,7 @@
 
 <h3 align="center">
 Hi! My name is Zac 🥷🏻 <br/>
-I'm an Offensive Security Engineer (Web3) & AI Engineer <br/>
+I'm an Offensive Security (Web3 mostly) + AI Engineer<br/>
 I am trained as a Systems Programmer + Computational Mathematician<br/>
 </h3>
 
