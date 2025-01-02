@@ -12,7 +12,7 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
 </h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&"  />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776e64270129741a8d5066d?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 <br clear="both">
