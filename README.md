@@ -11,10 +11,6 @@ I'm an Offensive Security (Web3 mostly) + Hardware/ML Engineer<br/>
 I am trained as a Systems Programmer + Computational Mathematician<br/>
 </h3>
 
-<div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776e64270129741a8d5066d?variant=dark" alt="roadmap.sh"/></a>
-</div>
-
 <br clear="both">
 
 <h3 align="left">
