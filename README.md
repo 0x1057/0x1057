@@ -27,6 +27,8 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
+<br clear="both">
+
 <h3 align="left">
    Core Programming Skills:
 </h3>
@@ -48,6 +50,7 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
     l33t sK1LlZ:
 </h3>
 
+<br clear="both">
 
 <div align="left" style="display: flex; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
