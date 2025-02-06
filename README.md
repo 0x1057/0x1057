@@ -7,7 +7,7 @@
 
 <h3 align="center">
 Hi! My name is Zac 🥷🏻 <br/>
-I'm an Offensive Security (Web3 mostly) + ML/AI Engineer<br/>
+I'm an Offensive Security (Web3 mostly) + Hardware/ML Engineer<br/>
 I am trained as a Systems Programmer + Computational Mathematician<br/>
 </h3>
 
@@ -22,10 +22,6 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="htmx logo"  />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
@@ -45,7 +41,6 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=emacs" height="40" alt="emacs logo"  />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
