@@ -8,12 +8,12 @@
 <h3 align="center">
 Hi! My name is Zac 🥷🏻 <br/>
 I'm a Hardware/ML Engineer + Web3 Security Researcher<br/>
-I am trained as Computational Mathematician<br/>
+I am trained as a Computational Mathematician<br/>
 </h3>
 
 <br clear="both">
 
-<h3 align="left">
+<h3 align="center">
     l33t sK1LlZ:
 </h3>
 
@@ -27,7 +27,7 @@ I am trained as Computational Mathematician<br/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
-<h3 align="left">
+<h3 align="center">
     Connect with me:
 </h3>
 
