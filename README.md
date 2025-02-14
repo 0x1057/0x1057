@@ -19,7 +19,7 @@ I am trained as a Computational Mathematician<br/>
 
 <br clear="both">
 
-<div align="left" style="display: flex; gap: .5rem">
+<div align="center" style="display: flex; gap: .5rem">
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
