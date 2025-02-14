@@ -31,7 +31,7 @@ I am trained as a Computational Mathematician<br/>
     Connect with me:
 </h3>
 
-<div>
+<div align="center">
   <a href="mailto:real.nightfallxyz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
