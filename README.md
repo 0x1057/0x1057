@@ -7,44 +7,11 @@
 
 <h3 align="center">
 Hi! My name is Zac 🥷🏻 <br/>
-I'm an Offensive Security (Web3 mostly) + Hardware/ML Engineer<br/>
-I am trained as a Systems Programmer + Computational Mathematician<br/>
+I'm a Hardware/ML Engineer + Web3 Security Researcher<br/>
+I am trained as Computational Mathematician<br/>
 </h3>
 
 <br clear="both">
-
-<h3 align="left">
-    Web Development Skills:
-</h3>
-
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-<br clear="both">
-
-<h3 align="left">
-   Core Programming Skills:
-</h3>
-
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
-  <img src="https://skillicons.dev/icons?i=emacs" height="40" alt="emacs logo"  />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-</div>
 
 <h3 align="left">
     l33t sK1LlZ:
@@ -53,10 +20,11 @@ I am trained as a Systems Programmer + Computational Mathematician<br/>
 <br clear="both">
 
 <div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
 <h3 align="left">
