@@ -7,8 +7,8 @@
 
 <h3 align="center">
 Hi! My name is Zac 🥷🏻 <br/>
-I'm a Hardware/ML Engineer + Web3 Security Researcher<br/>
-I am trained as a Computational Mathematician<br/>
+I'm Web3 Security Researcher (mostly Rust/Solana)<br/>
+I am trained as a Quantitative Developer/Analyst<br/>
 </h3>
 
 <br clear="both">
