@@ -32,10 +32,10 @@ I am trained as a Quantitative Developer/Analyst<br/>
 </h3>
 
 <div align="center">
-  <a href="mailto:real.nightfallxyz@gmail.com" target="_blank">
+  <a href="mailto:0x1057.main@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/nightfallxyz_" target="_blank">
+  <a href="https://twitter.com/0x1057" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
